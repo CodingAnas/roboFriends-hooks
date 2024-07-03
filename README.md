@@ -1,5 +1,4 @@
 # Made using React Hooks
-Tutorial for React
 To run the project:
 
 1. Clone this repo
